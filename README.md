@@ -2,7 +2,7 @@
 This is data released from Immigration and Customs Enforcement for people identified and removed through local enforcement of the 287(g) program between 2006 and 2013. It includes data on a per-department basis for jurisdictions that participated in 287(g).
 
 
-The original source material for this dataset come from three documents publicly released by ICE, for the following time periods:
+The original source material for this dataset come from three documents released by ICE, including documents released as a response to Muckrock FOIA requests. It includes the following time periods:
 
 2006-2010: https://www.ice.gov/doclib/foia/reports/287g-masterstats2010oct31.pdf
 
